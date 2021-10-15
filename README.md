@@ -4,7 +4,7 @@
 
 ## 프로젝트 전체 README는 Server Repository에 작성되어 있으므로 아래 링크를 클릭해주세요.
 
-## [👉Server Repository 로 이동👈](https://github.com/yujapie/ElectricityOCRServer)
+## [👉Server Repository 로 이동👈](https://github.com/2SEHI/ElectricityOCRServer)
 
 - **⚡ 전력량계량기 OCR프로젝트**
   - 📁Repository 구조
